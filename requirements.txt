@@ -1,0 +1,2 @@
+streamlit == 1.10.0
+auto-sklearn == 0.14.7
